@@ -1,0 +1,2 @@
+https://api.mapbox.com/geocoding/v5/mapbox.places/Dodoma%2C%20Tanzania.json?proximity=ip&access_token=pk.eyJ1IjoiZWRzb25hZXJvIiwiYSI6ImNsZzIyeGlsaDAxaWEzZHBob3F2a2hjM2UifQ.zEP96yXYgVHm8fmfEBPGrw
+https://api.mapbox.com/geocoding/v5/mapbox.places/Dar%20es%20Salaam%2C%20Tanzania.json?country=tz&proximity=ip&access_token=pk.eyJ1IjoiZWRzb25hZXJvIiwiYSI6ImNsZzIyeGlsaDAxaWEzZHBob3F2a2hjM2UifQ.zEP96yXYgVHm8fmfEBPGrw

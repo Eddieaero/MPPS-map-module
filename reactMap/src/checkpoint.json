@@ -1,0 +1,69 @@
+{
+    "locations": [
+      {
+        "name": "Mafinga",
+        "coordinates": {
+          "latitude": -8.233333,
+          "longitude": 33.650000
+        },
+        "code": "TT0K"
+      },
+      {
+        "name": "Makwawa",
+        "coordinates": {
+          "latitude": -7.666667,
+          "longitude": 33.400000
+        },
+        "code": "17SF"
+      },
+      {
+        "name": "Ilula",
+        "coordinates": {
+          "latitude": -6.583333,
+          "longitude": 35.733333
+        },
+        "code": "TT0K"
+      },
+      {
+        "name": "Sangasanga",
+        "coordinates": {
+          "latitude": -6.366667,
+          "longitude": 35.566667
+        },
+        "code": "TT0K"
+      },
+      {
+        "name": "Kese",
+        "coordinates": {
+          "latitude": -6.100000,
+          "longitude": 35.433333
+        },
+        "code": "TT0K"
+      },
+      {
+        "name": "Chalinze",
+        "coordinates": {
+          "latitude": -6.833333,
+          "longitude": 39.300000
+        },
+        "code": "TT0K"
+      },
+      {
+        "name": "Vigwaza",
+        "coordinates": {
+          "latitude": -7.183333,
+          "longitude": 39.150000
+        },
+        "code": "6JGH"
+      },
+      {
+        "name": "Dar es Salaam",
+        "coordinates": {
+          "latitude": -6.800000,
+          "longitude": 39.283333
+        },
+        "code": "TT0K"
+      }
+    ]
+  }
+  
